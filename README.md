@@ -54,7 +54,7 @@ Ahora bien, veamos este ejemplo.
 
 [NE-YO - Closer](https://youtu.be/z_aC5xPQ2f4)
 
-![NE-YO](https://user-images.githubusercontent.com/105526211/168444679-9b7ddaf6-f04b-41d6-96cb-bd5053562e9c.png)(https://youtu.be/z_aC5xPQ2f4)
+![NE-YO](https://user-images.githubusercontent.com/105526211/168444679-9b7ddaf6-f04b-41d6-96cb-bd5053562e9c.png)
 
 
 En este video musical de NE-YO podemos ver claramente cómo la tipografía forma parte del video para generar una emoción distinta. La tipografía acompaña y complementa la letra de la canción a la vez que jerarquiza determinados elementos. El resultado es una hibridación de dos medios que aunque llevan décadas usándose juntos aquí se puede apreciar fácilmente que no se trata de una yuxtaposición de medios sino que el resultado es un ente nuevo dotado de entidad propia y que perdería valor si eliminaremos una parte.
