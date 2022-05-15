@@ -83,11 +83,11 @@ El camino más complejo hacia el turismo virtual implica la ciencia de datos: mo
 
 
 
-Pero también es posible llegar a una experiencia muy similar con muchos menos requerimientos por parte del usuario. Con unas *cardboard glasses* y un teléfono móvil es posible llegar a tener una experiencia similar visitando lugares o grandes monumentos que previamente han sido guardaos en una colección de fotografías 360. Creando un entorno de realidad virtual altamente agradable.
+Pero también es posible llegar a una experiencia muy similar con muchos menos requerimientos por parte del usuario. Con unas *cardboard glasses* y un teléfono móvil es posible llegar a tener una experiencia similar visitando lugares o grandes monumentos que previamente han sido guardados en una colección de fotografías 360. Creando un entorno de realidad virtual altamente agradable.
 
 
 
-Existen muchos ejemplos a los que se podrían recurrir. Desde visitar museos como el Louvre has ta recorrer la ciudad de Petra. Echemos un vistazo a un proyecto que intenta mostrar monumentos del antiguo Egipto.
+Existen muchos ejemplos a los que se podrían recurrir. Desde visitar museos como el Louvre hasta recorrer la ciudad de Petra. Echemos un vistazo a un proyecto que intenta mostrar monumentos del antiguo Egipto.
 
 [Describing Egypt](https://describingegypt.com/)
 
