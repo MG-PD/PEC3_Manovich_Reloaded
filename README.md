@@ -63,6 +63,10 @@ En este video musical de NE-YO podemos ver claramente cómo la tipografía forma
 
 Esta forma de usar la tipografía como parte y elemento de una obra audiovisual es cada vez mas común. Si pensamos un poco, desde la proliferación de WhatsApp y otros sistemas de mensajería como medio de comunicación. En el cine cada vez que un personaje se comunica con otro mediante un mensaje el director tiene dos opciones mostrar un plano recurso de de la pantalla en concreto o tratar de mostrar el texto en la pantalla haciendo algo parecido a lo que NE-YO hace en su video clip. Cada vez son mas las producciones que utilizan este recurso frente al aburrido plano recurso.
 
+
+------
+
+
 ### Caso 2:
 
 #### Fotografía 360º y el turismo virtual
@@ -95,3 +99,23 @@ Durante la última década, el auge de las redes sociales ha hecho que los viaje
 
 
 El turismo virtual puede parecer abrumador al principio, pero con una pizca de optimismo práctico, es posible ver esta nueva tendencia no como una necesidad imperiosa en la sartén, sino como una oportunidad para ayudar a que su lugar crezca y prospere desafiando a “*pandemias*” y restricciones. limitaciones. La clave del éxito, es simplemente comprender qué hace que su oferta sea especial y luego hacerla accesible para personas de todo el mundo que se dan cuenta, o se darán cuenta, de esa especialidad también.
+
+
+
+------
+
+### Licencia
+
+Material Creative Commons desarrollado bajo licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+- Información resumida de la licencia: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+- Código legal completo de la licencia: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+------
+
+### Bibliografía, webgrafía y recursos
+
+- MANOVICH, Lev (2013). El software toma el mando. Barcelona: Editorial UOC. 
+- Ne-Yo - Closer (Official Music Video)[vídeo en línea]. 2009. Disponible en: https://www.youtube.com/watch?v=z_aC5xPQ2f4
+- ¿Qué es el Turismo Virtual? La realidad virtual en el sector turístico. Por EU Mediterrani en [Grado Turismo](https://mediterrani.com/blog/category/grado-turismo/) . 2021 Disponible en: https://mediterrani.com/turismo-virtual-realidad/ . Barcelona  https://mediterrani.com/
+- Describing Egipt. 2015 - 2022. Disponible en: https://describingegypt.com/  								
