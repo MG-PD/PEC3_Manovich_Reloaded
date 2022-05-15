@@ -58,3 +58,28 @@ En este video musical de NE-YO podemos ver claramente cómo la tipografía forma
 
 
 Esta forma de usar la tipografía como parte y elemento de una obra audiovisual es cada vez mas común. Si pensamos un poco, desde la proliferación de WhatsApp y otros sistemas de mensajería como medio de comunicación. En el cine cada vez que un personaje se comunica con otro mediante un mensaje el director tiene dos opciones mostrar un plano recurso de de la pantalla en concreto o tratar de mostrar el texto en la pantalla haciendo algo parecido a lo que NE-YO hace en su video clip. Cada vez son mas las producciones que utilizan este recurso frente al aburrido plano recurso.
+
+### Caso 2:
+
+#### Fotografía 360º y el turismo virtual
+
+El turismo virtual implica el uso de la tecnología para seguir  ofreciendo acceso, aunque sea de forma remota, al entretenimiento, el  arte, la cultura y los viajes. La pandemia del coronavirus ha golpeado  duramente a la industria del turismo, pero el turismo virtual ha  proporcionado una vía para que los museos y las atracciones mantengan la conexión con el público encontrándolos exactamente donde están: en  línea.
+
+
+
+> Al tratarse de un concepto relativamente reciente, no hay unanimidad acerca de **qué es el turismo virtual**. Sin embargo, todos coinciden en algunas características definitorias. Sobre todo, **el uso de medios digitales para crear una experiencia inmersiva en relación a un determinado recurso turístico**
+
+
+
+El camino más complejo hacia el turismo virtual implica la ciencia de datos: modelado matemático y mapeo de ubicación para crear una experiencia de viaje virtual que podría haber sido extraída directamente de una novela de ciencia ficción. Imaginemos los gráficos de videojuegos o películas de mayor calidad que jamás hayamos visto, ¡y luego imaginémoslo en 4D! Si vamos a ofrecer este tipo de turismo virtual a los visitantes, tendremos que dedicar mucho esfuerzo al diseño y la tecnología. Y para que estos visitantes disfruten del producto en sus hogares, probablemente necesitarán gafas de realidad virtual para una mejor experiencia de usuario.
+
+
+
+Pero también es posible llegar a una experiencia muy similar con muchos menos requerimientos por parte del usuario. Con unas *cardboard glasses* y un teléfono móvil es posible llegar a tener una experiencia similar visitando lugares o grandes monumentos que previamente han sido guardaos en una colección de fotografías 360. Creando un entorno de realidad virtual altamente agradable.
+
+
+
+Existen muchos ejemplos a los que se podrían recurrir. Desde visitar museos como el Louvre has ta recorrer la ciudad de Petra. Echemos un vistazo a un proyecto que intenta mostrar monumentos del antiguo Egipto.
+
+[Describing Egypt](https://describingegypt.com/)
+
