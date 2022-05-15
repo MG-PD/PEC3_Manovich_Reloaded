@@ -30,6 +30,10 @@ Por poner un ejemplo muy sencillo el cine que era una cámara de fotos con un ne
 
 Vivimos en una sociedad que cada vez consume mas entretenimiento y como es natural la hibridación también ha llegado al punto en el que ha hecho que surjan nuevas fusiones de medios para generar nuevas emociones.
 
+
+------
+
+
 ### Caso 1:
 
 #### Tipografia y contenido audiovisual
