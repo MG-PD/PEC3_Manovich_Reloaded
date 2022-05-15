@@ -48,7 +48,7 @@ Ya en el cine mudo se usaban viñetas con teto para que el espectador pudiese se
 
 Ahora bien, veamos este ejemplo. 
 
-https://youtu.be/z_aC5xPQ2f4
+[NE-YO - Closer](https://youtu.be/z_aC5xPQ2f4)
 
 ![NE-YO](https://user-images.githubusercontent.com/105526211/168444679-9b7ddaf6-f04b-41d6-96cb-bd5053562e9c.png)
 
