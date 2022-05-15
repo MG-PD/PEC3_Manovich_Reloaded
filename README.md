@@ -84,3 +84,10 @@ Existen muchos ejemplos a los que se podrían recurrir. Desde visitar museos com
 [Describing Egypt](https://describingegypt.com/)
 
 ![Egipt](https://user-images.githubusercontent.com/105526211/168482684-684827ef-a428-4c52-8a8c-bf1d75440d34.png)
+
+
+Durante la última década, el auge de las redes sociales ha hecho que los viajeros inviertan más en compartir lo que experimentan en línea y pasen más tiempo viendo la experiencia de otras personas en línea. En cierto modo, este mayor enredo de tecnología, medios y viajes ha preparado a las audiencias para los viajes virtuales, haciéndoles más fácil aceptar las ofertas virtuales de museos y atracciones.
+
+
+
+El turismo virtual puede parecer abrumador al principio, pero con una pizca de optimismo práctico, es posible ver esta nueva tendencia no como una necesidad imperiosa en la sartén, sino como una oportunidad para ayudar a que su lugar crezca y prospere desafiando a “*pandemias*” y restricciones. limitaciones. La clave del éxito, es simplemente comprender qué hace que su oferta sea especial y luego hacerla accesible para personas de todo el mundo que se dan cuenta, o se darán cuenta, de esa especialidad también.
